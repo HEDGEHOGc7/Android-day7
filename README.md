@@ -1,1 +1,5 @@
 # Android-day7
+
+增加功能：在ijkplayer中新加通过seekbar调节mediaplayer音量的功能，通过在封装的类中添加setVolume函数完成。
+
+另外在glideimageview中获取了本地访问权限，使得滑动的过程中可以显示本地图片（图片路径定义在固定的字符串中，在不同设备中有不同路径）
